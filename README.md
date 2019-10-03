@@ -1,6 +1,6 @@
 # Davies_etal_NGeo_2019_Datasets
 
-In the first folder, "hoggard", you will find an updated compilation of residual topography measurements from Hoggard et al. (JGR, 2017). See supplementary information of our manuscript for key information. Point-wise (spot) data is included as 2 files: (i) circles.dat, for locations that incorporate a crustal correction; and (ii) triangles.dat, for locations that do not. Shiptrack.dat includes all shiptrack-based estimates of residual topgoraphy. 
+In the first folder, "hoggard", you will find an updated compilation of residual topography measurements from Hoggard et al. (JGR, 2017). See supplementary information of our manuscript for key information. Point-wise (spot) data is included (spot.dat) alongside a file with spot and shiptrack-based estimates combined (spot_shiptrack.dat).
 
 In the second folder, "models", you will find simulation output for:
 
